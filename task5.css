@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap');
+
+
+
+.container{
+    background-color: #0B0D39;
+}
+.foto{
+    width: 108px;
+    height: 46px;
+    gap: 91px;
+    
+}
+
+.home{
+background-color: #1A1C46;
+color: white;
+width: 900px;
+height: 90px;
+border-radius: 50px;
+margin-left: 228px;
+margin-top: 30px;
+gap: 70px;
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: 'Quicksand', sans-serif;
+
+    
+    
+}
+
+.foto1{
+    display: flex;
+    align-items: center;
+    
+
+    
+    
+}
+
+.template{
+    color: #356DFF;
+    
+    
+}
+
+.the{
+    color: #FFFFFF;
+    margin-left: 230px;
+    font-size: 30px;
+    
+
+    
+
+
+}
+.startup{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: left;
+    margin-left: 230px;
+    font-size: 70px;
+    padding-bottom: 100px
+}
+
+.text{
+color: #FFFFFF;
+text-align: left;
+opacity: 0.6;
+margin-left: 230px;
+font-family: 'Quicksand', sans-serif;
+
+
+
+}
+
+.discuss{
+   color: #FFFFFF;
+background-color: #356DFF;
+width: 200px;
+height: 70px;
+border-radius: 50px 50px 50px 5px;
+display: flex;
+justify-content: center;
+align-items: center;
+opacity: 1;
+
+
+}
+.discuss-container{
+    display: flex;
+    margin-left: 230px;
+}
+
+
+.box1{
+    background-color: #1A1C46;
+    height: 660px;
+    width: 900px;
+    border-radius: 40px;
+
+    
+    
+}
+
+
+
+.template1{
+    
+    color: #356DFF;
+    padding-right: 90px;
+
+
+
+}
+.box1samodzrao{
+    margin-left: 230px;
+    
+}
+
+.yourdream{
+    color: #FFFFFF;
+    font-size: 50px;
+    padding-left: 310px;
+    
+}
+
+
+
+.pirveli{
+    
+    
+    
+    width: 200px;
+    height: 200px;
+
+    
+        
+    
+
+}
+.pirveli1{
+background-color: #0B0D39;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+width: 160px;
+height: 160px;
+margin-left: 40px;
+
+
+}
+
+
+
+.meore{
+    
+    width: 200px;
+    height: 200px;
+    
+    
+}
+.meore2{
+ background-color: #0B0D39;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+width: 160px;
+height: 160px;
+margin-left: 30px;
+align-items: center;
+
+
+
+
+}
+.mesame{
+    
+    width: 215px;
+    height: 215px;
+    
+    
+    
+}
+.mesame3{
+    background-color: #0B0D39;
+border-radius: 50%;
+display: flex;
+justify-content: center;
+width: 160px;
+height: 160px;
+margin-left: 40px;
+}
+
+    
+    
+.fotoebissamodzravebeli{
+display: flex;
+justify-content: center;
+justify-content: space-around;
+
+
+
+
+}
+
+
+
+.productdesign{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+font-family: 'Quicksand', sans-serif;
+
+
+}
+
+.branding{
+    color: #FFFFFF;
+    justify-content: space-around;
+font-family: 'Quicksand', sans-serif;
+
+
+}
+.coding{
+    color: #FFFFFF;
+    justify-content: space-around;
+font-family: 'Quicksand', sans-serif;
+    
+    }
+    
+
+.bolotexti{
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    opacity: 0.6;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    
+    }
+
+
+    .bolotexti1{
+        color: #FFFFFF;
+        display: flex;
+        justify-content: space-around;
+        opacity: 0.6;
+        font-family: 'Quicksand', sans-serif;
+        text-align: center;
+        font-size: 15px;
+        
+        }
+
+        .bolotexti2{
+            color: #FFFFFF;
+            display: flex;
+            justify-content: space-around;
+            opacity: 0.6;
+            font-family: 'Quicksand', sans-serif;
+            text-align: center;
+            font-size: 15px;
+            
+            }
+
